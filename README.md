@@ -20,7 +20,7 @@ The model compares the performance of **Linear Regression**, **Ridge Regression*
 
 ## 📊 Dataset
 
-- **Source:** [UCI Machine Learning Repository – Boston Housing Dataset](https://archive.ics.uci.edu/ml/datasets/housing)
+- **Source:** [UCI Machine Learning Repository – Boston Housing Dataset](https://www.kaggle.com/datasets/heptapod/uci-ml-datasets)
 - **Number of instances:** 506  
 - **Number of attributes:** 13 features + 1 target (`MEDV`)
 

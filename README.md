@@ -83,5 +83,5 @@ Each model was evaluated using:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/House_Prediction.git
+   https://github.com/Coolbuddy145/House-Price-Prediction-using-Machine-Learning
    cd House_Prediction

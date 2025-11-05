@@ -45,7 +45,6 @@ The model compares the performance of **Linear Regression**, **Ridge Regression*
 Each model was evaluated using:
 - **R² Score (Coefficient of Determination)**
 - **RMSE (Root Mean Squared Error)**
-- **MAE (Mean Absolute Error)** *(optional, if you added it)*
 
 **Example Results:**
 
